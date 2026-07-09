@@ -31,7 +31,7 @@ Focus-Lock is a lightweight app that helps users reduce distractions by locking 
 ---
 
 ## Why Focus-Lock?
-Short, focused sessions reduce context switching and improve productivity. Focus-Lock makes it easy to create interruption-free blocks without removing apps or changing habits permanently.
+Have you ever had that itch to open that app after you put your phone down for a bit, well it could be a dopamine dependency your brain is learning to rely on.Focus Lock not only helps you break your habit of opening those addicting apps but can also help you notice when you fail. 
 
 ---
 
@@ -48,9 +48,8 @@ Quick start:
 ---
 
 ## Usage
-- Create recurring schedules for regular study/work blocks.
-- Use short sessions (25–50 minutes) followed by breaks (Pomodoro-style).
-- Configure a cooldown/override policy to avoid easy bypassing.
+- Primarly to break the habit of you picking up your phone while you need to be locked in.
+- It can also be used anywhere anytime.
 
 ---
 
@@ -73,6 +72,42 @@ Contributions are welcome!
 
 ## License
 
+The Triple C License v1.0
+Copyright (c) 2026 Ethan Bunch
+
+Purpose
+This software is provided to encourage learning, collaboration, and community-driven development. Anyone is welcome to use, study, modify, and share this software under the terms below.
+
+Permissions
+You may:
+
+Use this software for personal, educational, research, or non-commercial purposes.
+View and study the source code.
+Modify the source code.
+Create and distribute your own versions of the software.
+Contribute improvements back to the original project.
+Conditions
+If you distribute this software or a modified version, you must:
+
+Include this license with your distribution.
+Keep the original copyright notice.
+Clearly state any changes you made.
+Not claim the original work as your own.
+Commercial Restrictions
+Without prior written permission from the copyright holder, you may not:
+
+Sell this software.
+Sell modified versions of this software.
+Include this software in a paid product or service.
+Charge licensing fees for this software or any derivative based primarily on it.
+Redistribute this software for commercial gain.
+Contributions
+By contributing code to this project, you agree that your contributions may be distributed under this same license.
+
+Disclaimer
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
 ---
