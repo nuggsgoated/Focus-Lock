@@ -1,6 +1,6 @@
 # Focus-Lock
 
-A simple app to help you break the habit of phone-based dopamine chasing by temporarily locking access to selected apps.
+A simple app to help you break the habit of phone-based dopamine chasing by temporarily locking access to selected apps via a nfc device.
 
 ---
 
